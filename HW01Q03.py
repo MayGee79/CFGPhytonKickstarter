@@ -10,4 +10,4 @@ total_eggs = eggs_per_box * boxes_of_eggs
 omelettes = total_eggs // eggs_per_omelette
 
 # This is the output.
-print(f'You can make {omelettes} omelettes with {boxes_of_eggs} boxes of eggs')
+print('You can make {} omelettes with {} boxes of eggs'.format(omelettes, boxes_of_eggs))
