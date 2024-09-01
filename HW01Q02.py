@@ -1,4 +1,3 @@
-
 my_name = Penelope #NameError: name 'Penelope' is not defined.
 # It needs to be put in quotes to indicate that it is a string.
 my_age = 29
